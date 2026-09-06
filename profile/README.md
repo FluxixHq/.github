@@ -1,6 +1,7 @@
 # Fluxix
 
 ### Control and governance infrastructure for AI agents.
+[Website](https://fluxix.ai) · [Documentation](https://github.com/FluxixHq/fluxix-docs) · [Tutorial Agents](https://github.com/FluxixHq/fluxix-tutorial-agents)
 
 AI agents are gaining the ability to access databases, call APIs, issue refunds, modify records, trigger workflows, and interact with production systems.
 
